@@ -1,3 +1,6 @@
+# 7.0.0
+* Update rubocop to 1.45.1
+* Update rubocop-rails to 2.18.0
 # 6.0.0
 * Recover code analysis using `TargetRubyVersion` from Ruby 2.0 to 2.4
 * Drop support for Ruby 2.5
